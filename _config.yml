@@ -1,0 +1,23 @@
+# Site
+title: BetaKit
+subtitle: simples como um click
+
+# URL
+url: http://www.betakit.click
+baseurl: /
+permalink: :title/
+include: ['_pages']
+
+# Build settings
+markdown: kramdown
+port: 4441
+future: true
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
