@@ -1,0 +1,112 @@
+/*
+______________________________________________________________
+[D e v i s ,   colorsheet.css ]
+
+    Color        :  Golden
+
+    Name         :  Davis - Portfolio and News Template
+
+    Version      :  1.0 
+
+    Author       :  Pixel_Factory
+
+    Author URI   :  http://themeforest.net/user/Pixel_Factory
+
+    Author Email : h.nafees.anwar@gmail.com
+
+______________________________________________________________
+*/
+.down-btn a {
+    color: #25aae1;
+}
+
+.colored {
+    color: #25aae1;
+}
+
+.menu-btn a {
+    background: #25aae1;
+}
+
+.portfolio-controls .control:hover {
+    color: #25aae1;
+}
+
+.portfolio-controls .control.active,
+.portfolio-controls .control:active {
+    color: #25aae1;
+}
+
+.portfolio-item .mask {
+    background: #25aae1;
+}
+
+.link:hover,
+.link-white:hover {
+    color: #25aae1 !important;
+}
+
+.link-colored {
+    color: #25aae1 !important;
+}
+
+.button-colored {
+    color: #25aae1;
+    border-color: #25aae1;
+}
+
+.button-colored:hover {
+    color: #fff;
+    border-color: #25aae1;
+    background: #25aae1;
+}
+
+.button-colored-alt {
+    color: #fff;
+    border-color: #25aae1;
+    background: #25aae1;
+}
+
+.button-colored-alt:hover {
+    color: #25aae1;
+    border-color: #25aae1;
+    background: transparent;
+}
+
+.navigation li a:hover {
+    color: #25aae1;
+}
+
+.navigation li.active>a {
+    color: #25aae1;
+}
+
+.blog-tags ul li a {
+    background: #25aae1;
+}
+
+.contact-info-item i {
+    color: #25aae1;
+}
+
+.social-media ul li a {
+    color: #25aae1;
+}
+
+.social-media ul li a:hover {
+    color: #fff;
+    background: #25aae1;
+    border-color: #25aae1;
+}
+
+.arrow-list li i {
+    color: #25aae1;
+}
+
+.project-details-list ul li {
+    border-bottom-color: #25aae1;
+}
+
+.blog-data-tag {
+    background: #25aae1;
+}

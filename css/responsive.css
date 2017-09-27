@@ -1,0 +1,132 @@
+@media only screen and (max-width: 1200px) {
+	.home-content .type-it {
+		font-size: 100px;
+	}
+	.about-signature img {
+		width: 120px;
+	}
+}
+
+@media only screen and (max-width:992px) {
+	.menu-btn a {
+		width: 40px;
+		height: 40px;
+		line-height: 40px;
+		font-size: 20px;
+	}
+	.navigation li a {
+		font-size: 24px;
+	}
+	.nav-inner li a {
+		font-size: 18px;
+	}
+	.home-content {
+		transform: translateY(-50px);
+	}
+	.home-content .type-it {
+		font-size: 66px;
+	}
+	.down-btn {
+		bottom: 80px;
+	}
+	.about-image {
+		width: 100%;
+		display: block;
+		height: 500px;
+	}
+	.about-text {
+		width: 100%;
+		display: block;
+	}
+	.mix {
+		width: 50%;
+	}
+	.portfolio_3_col .mix {
+		width: 50%;
+	}
+	.portfolio_4_col .mix {
+		width: 33.3333%;
+	}
+    
+    .comments-container {
+        width: 100%;
+    }
+    .comment-form-container {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:768px) {
+	h2 {
+		font-size: 30px;
+	}
+	h3 {
+		font-size: 24px;
+	}
+	h4 {
+		font-size: 20px;
+	}
+	.navigation li a {
+		font-size: 22px;
+	}
+	.nav-inner li a {
+		font-size: 16px;
+	}
+	.home-content {
+		transform: translateY(-50px);
+	}
+	.home-content .type-it {
+		font-size: 48px;
+	}
+	.portfolio_4_col .mix {
+		width: 50%;
+	}
+	.section-page-header {
+		height: 300px;
+	}
+	.project-gallery ul {
+		margin-right: -7.5px;
+		margin-left: -7.5px;
+		padding-top: 30px;
+	}
+	.project-gallery ul li {
+		display: inline-block;
+		margin-right: -1px;
+		margin-left: -1px;
+		width: 50%;
+		padding-left: 7.5px;
+		padding-right: 7.5px;
+	}
+}
+
+@media only screen and (max-width:480px) {
+	.about-text {
+		padding: 30px;
+	}
+	.mix {
+		width: 100%;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.portfolio_2_col .mix {
+		width: 100%;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.portfolio_3_col .mix {
+		width: 100%;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.portfolio_4_col .mix {
+		width: 100%;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.social-media {
+		float: none;
+	}
+	.copy-right {
+		float: none;
+	}
+}
